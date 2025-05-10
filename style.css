@@ -1,0 +1,28 @@
+                body{
+                        padding: 0;
+                        margin: 0;
+                        display: flex;
+                        justify-content: center;
+                }
+
+                #message-container{
+
+
+               }
+
+                #message-container div{
+                        background-color: #ccc;
+                        padding: 5px;
+                }
+
+                #send-container input{
+                        padding: 17px;
+                        width: 500px;
+                        font-size: 20px;
+                }
+
+                #send-container{
+                        width: 500px;
+                        display: flex;
+                        margin-top: 700px;
+                }
